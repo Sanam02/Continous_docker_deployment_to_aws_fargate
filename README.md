@@ -1,11 +1,11 @@
 # Continous_docker_deployment_to_aws_fargate
 
-![](https://github.com/Sanam02/Continous_docker_deployment_to_aws_fargate/blob/main/images/Cont_Docker_Fargate_AWS.gif)
+
 ## Solution architecture
 
 The following diagram shows the flow of events in the solution:
+![](https://github.com/Sanam02/Continous_docker_deployment_to_aws_fargate/blob/main/images/Cont_Docker_Fargate_AWS.gif)
 
-![AWS DevOps: Continuous Docker Deployment to AWS Fargate from GitHub using Terraform](./img/aws-devops-continuous-docker-deployment-to-aws-fargate.gif)
 
 ## Introduction
 
